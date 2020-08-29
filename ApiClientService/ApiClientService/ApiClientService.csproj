@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>GGSoftware.WebApi.ApiClientService</PackageId>
+    <Authors>Girish Godage</Authors>
+    <Company>GGSoftware</Company>
+    <Description>Library helps you to consume any Web API from withing your C# based application with a few lines of code.</Description>
+    <Copyright>GG Software 2020</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>

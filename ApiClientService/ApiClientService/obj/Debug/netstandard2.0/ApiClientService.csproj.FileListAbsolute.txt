@@ -1,0 +1,8 @@
+C:\BlazorAppProjects\GGSoftwareProjects\ApiClientService\ApiClientService\bin\Debug\netstandard2.0\ApiClientService.deps.json
+C:\BlazorAppProjects\GGSoftwareProjects\ApiClientService\ApiClientService\bin\Debug\netstandard2.0\ApiClientService.dll
+C:\BlazorAppProjects\GGSoftwareProjects\ApiClientService\ApiClientService\obj\Debug\netstandard2.0\ApiClientService.AssemblyInfoInputs.cache
+C:\BlazorAppProjects\GGSoftwareProjects\ApiClientService\ApiClientService\obj\Debug\netstandard2.0\ApiClientService.AssemblyInfo.cs
+C:\BlazorAppProjects\GGSoftwareProjects\ApiClientService\ApiClientService\bin\Debug\netstandard2.0\ApiClientService.pdb
+C:\BlazorAppProjects\GGSoftwareProjects\ApiClientService\ApiClientService\obj\Debug\netstandard2.0\ApiClientService.csproj.CoreCompileInputs.cache
+C:\BlazorAppProjects\GGSoftwareProjects\ApiClientService\ApiClientService\obj\Debug\netstandard2.0\ApiClientService.dll
+C:\BlazorAppProjects\GGSoftwareProjects\ApiClientService\ApiClientService\obj\Debug\netstandard2.0\ApiClientService.pdb
